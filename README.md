@@ -1,3 +1,6 @@
+
+https://travis-ci.org/rovens/dynamic-sports.svg?branch=master
+
 Ionic App Base
 =====================
 
