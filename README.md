@@ -1,5 +1,6 @@
 
-https://travis-ci.org/rovens/dynamic-sports.svg?branch=master
+![Travis CI status](https://travis-ci.org/rovens/dynamic-sports.svg?branch=master)
+
 
 Ionic App Base
 =====================
