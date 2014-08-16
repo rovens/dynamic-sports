@@ -17,11 +17,12 @@
     "karma-phantomjs-launcher": "~0.1.4",
     "karma-ng-scenario": "~0.1.0",
     "karma-junit-reporter": "~0.2.2",
-    "karma-coverage": "~0.2.1"
+    "karma-coverage": "~0.2.1",
+    "karma-mocha": "^0.1.7"
   },
   "scripts": {
     "test": "node_modules/karma/bin/karma start tests/karma.config.js",
     "ios": "ionic emulate ios",
-    "android" : "ionic run android"
+    "android": "ionic run android"
   }
 }
