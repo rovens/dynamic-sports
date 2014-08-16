@@ -20,6 +20,8 @@
     "karma-coverage": "~0.2.1"
   },
   "scripts": {
-    "test": "node_modules/karma/bin/karma start tests/karma.config.js"
+    "test": "node_modules/karma/bin/karma start tests/karma.config.js",
+    "ios": "ionic emulate ios",
+    "android" : "ionic run android"
   }
 }
